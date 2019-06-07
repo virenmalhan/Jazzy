@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "243a7027bdd50102e909741bb5fecbdb"
+build_time: [1559901241, 542106000]
+inputs:
+  "/Users/virenmalhan/Desktop/Code/Projects/Jazzy/Jazzy/TransactionViewController.swift": [9223372036, 854775807]
+  "/Users/virenmalhan/Desktop/Code/Projects/Jazzy/Jazzy/AppDelegate.swift": [9223372036, 854775807]
+  "/Users/virenmalhan/Desktop/Code/Projects/Jazzy/Jazzy/Transaction.swift": [9223372036, 854775807]
